@@ -3,9 +3,10 @@ void main()
 {
 char a[10];
 int k;
-printf("enter the string");
-scanf("%s",&a);
-printf("enter the k value");
+  for(i=0;i<10<i++)
+  {
+    scanf("%d",&a[i]);
+  }
 scanf("%d",&k);
 for(i=0;i<=k;i++)
 {
