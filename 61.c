@@ -7,7 +7,7 @@ printf("enter the string");
 scanf("%s",&a);
 printf("enter the k value");
 scanf("%d",&k);
-for(i=0;a[i]<=k;i++)
+for(i=0;i<=k;i++)
 {
 printf("%d",a[i]);
 }
