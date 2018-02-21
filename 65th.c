@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	if(printf("Hello World"))
+	if(printf("lakshmi"))
 	{
 		return 0;
 	}
